@@ -6,11 +6,11 @@ Install:
 ```
 python -m pip install konsave
 ```
-import: 
+Import: 
 ```
 konsave -i <profile>
 ```
-apply: 
+Apply: 
 ```
 konsave -a <profile>
 ```
